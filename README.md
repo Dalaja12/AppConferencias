@@ -1,2 +1,2 @@
 # AppConferencias
-aplicacion para conferencias 
+aplicacion para conferencias 👥
